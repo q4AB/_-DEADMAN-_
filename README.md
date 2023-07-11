@@ -3,7 +3,7 @@
 #
 
 <h1 align="center">
-⚔️ Doenerium 🛡️
+⚔️ DEADMAN 🛡️
 </h1>
 
 <p align="center"> 
