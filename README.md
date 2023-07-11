@@ -139,26 +139,6 @@ properties: {
 >
 > Automatic obfuscation when building
 
-<a id="screenshot"></a>
-
----
-
-### 📸 〢 Screenshots
-
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/2.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/6.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/7.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/8.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/9.png?raw=true" alt="" width="539"><img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/10.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/12.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/13.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/14.png?raw=true" alt="" width="539">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/15.jpg?raw=true" alt="" width="539">
-
-<img title="" src="https://i.imgur.com/hFryuaR.png" alt="" width="639">
-<img title="" src="https://github.com/doenerium69/doenerium/blob/main/screenshots/11.png?raw=true" alt="" width="639">
-
-
-<a id="todo"></a>
-
 ---
 
 ### 📝 〢 Todo
